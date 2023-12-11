@@ -82,7 +82,7 @@ If you'd like to contribute to the project, please follow these steps:
 
 ## Live Demo
 
-You can view a live demo of the application [here](https://react-meals-app.herokuapp.com/).
+You can view a live demo of the application [here](https://react-meals-mu.vercel.app/).
 
 ## Contact Me
 
